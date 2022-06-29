@@ -1,0 +1,117 @@
+D:\Work\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\Work\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\Work\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\Work\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\Work\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\Work\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\Work\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Work\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\Work\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\Work\MyWorks\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\Work\MyWorks\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\Work\MyWorks\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\Work\MyWorks\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\Work\MyWorks\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\Work\MyWorks\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\Work\MyWorks\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Work\MyWorks\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\Work\MyWorks\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (6)\OnionArchitectureApp\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\sourabh\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\sourabh\OnionArchitectureApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\sourabh\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\sourabh\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\sourabh\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\sourabh\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\sourabh\OnionArchitectureApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\Qbubble\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\OfficeRelated\QBubble\Qbubble\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\Qbubble\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Debug\netstandard2.1\Domain.pdb

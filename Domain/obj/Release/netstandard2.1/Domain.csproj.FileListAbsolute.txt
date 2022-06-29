@@ -1,0 +1,44 @@
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\bin\Release\netstandard2.1\Domain.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\bin\Release\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\bin\Release\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\Domain\bin\Release\netstandard2.1\Domain.deps.json
+D:\sourabh\OnionArchitectureApp\Domain\bin\Release\netstandard2.1\Domain.dll
+D:\sourabh\OnionArchitectureApp\Domain\bin\Release\netstandard2.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\sourabh\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfo.cs
+D:\sourabh\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\sourabh\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.dll
+D:\sourabh\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\Domain\obj\Release\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Mechlin Tech\Qbubble\Domain\bin\Release\netstandard2.1\Domain.deps.json
+E:\Mechlin Tech\Qbubble\Domain\bin\Release\netstandard2.1\Domain.dll
+E:\Mechlin Tech\Qbubble\Domain\bin\Release\netstandard2.1\Domain.pdb
+E:\Mechlin Tech\Qbubble\Domain\obj\Release\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Mechlin Tech\Qbubble\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Mechlin Tech\Qbubble\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Mechlin Tech\Qbubble\Domain\obj\Release\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Mechlin Tech\Qbubble\Domain\obj\Release\netstandard2.1\Domain.dll
+E:\Mechlin Tech\Qbubble\Domain\obj\Release\netstandard2.1\Domain.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\bin\Release\netstandard2.1\Domain.deps.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\bin\Release\netstandard2.1\Domain.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\bin\Release\netstandard2.1\Domain.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Release\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Release\netstandard2.1\Domain.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Domain\obj\Release\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\Qbubble\Domain\bin\Release\netstandard2.1\Domain.deps.json
+D:\OfficeRelated\QBubble\Qbubble\Domain\bin\Release\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\Qbubble\Domain\bin\Release\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Release\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Release\netstandard2.1\Domain.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Release\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Release\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\Qbubble\Domain\obj\Release\netstandard2.1\Domain.pdb

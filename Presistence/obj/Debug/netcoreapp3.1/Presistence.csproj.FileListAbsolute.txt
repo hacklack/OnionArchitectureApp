@@ -1,0 +1,209 @@
+D:\Work\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+D:\Work\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\Work\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\Work\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+D:\Work\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Work\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Work\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+D:\Work\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+D:\Work\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+D:\Work\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+D:\Work\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+D:\Work\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+D:\Work\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+D:\Work\MyWorks\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+D:\sourabh\OnionArchitectureApp\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+D:\sourabh\OnionArchitectureApp\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Mechlin Tech\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+E:\Mechlin Tech\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.deps.json
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.json
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.runtimeconfig.dev.json
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Application.dll
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Application.pdb
+D:\OfficeRelated\QBubble\Qbubble\Presistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.csproj.CopyComplete
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\Qbubble\Presistence\obj\Debug\netcoreapp3.1\Presistence.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "59I04jLZj8Edy/uY4iCSReb3Cd3+uv7xSoD56rNbYZAQZGTai5qbrJOdoLhX5EiUYBpxY9ZjcYXe/JPitMxHNw==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\OnionArchitectureApp\\WebApi\\WebApi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.4\\swashbuckle.aspnetcore.6.0.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.4\\swashbuckle.aspnetcore.swagger.6.0.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.4\\swashbuckle.aspnetcore.swaggergen.6.0.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.4\\swashbuckle.aspnetcore.swaggerui.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

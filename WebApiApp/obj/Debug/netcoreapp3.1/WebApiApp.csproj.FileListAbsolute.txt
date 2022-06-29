@@ -1,0 +1,1466 @@
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\Work\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\Work\MyWorks\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Qbubble\QbubbleS\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+D:\OfficeRelated\QBubble\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (3)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp (4)\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Qbubble\Qbubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\ImageResizer.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Preview.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Management.ServiceModel.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Strings.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Extensions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Diagnostics.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Services.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.McgInterop.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.McgInterop.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Strings.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.CompilerServices.ICastable.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.Interop.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Strings.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\sourabh\OnionArchitectureApp\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\ImageResizer.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.Strings.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Preview.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Management.ServiceModel.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Strings.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Extensions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Interfaces.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Diagnostics.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Services.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.McgInterop.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.McgInterop.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Strings.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.CompilerServices.ICastable.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.Interop.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Strings.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+E:\Mechlin Tech\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\auth.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\FirebaseAdmin.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\FirebaseCoreSDK.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\FirebaseNetAdmin.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Api.Gax.Rest.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\jose-jwt.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Preview.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Management.ServiceModel.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Strings.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Services.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\NetLegacySupport.Tuple.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\UrlCombineLib.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.McgInterop.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.McgInterop.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Strings.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.CompilerServices.ICastable.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.Interop.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Strings.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\auth.json
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.exe
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\OnionArchitecture.xml
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.deps.json
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.json
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.runtimeconfig.dev.json
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\CorePush.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Expo.Server.SDK.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\FirebaseAdmin.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\FirebaseCoreSDK.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\FirebaseNetAdmin.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Api.Gax.Rest.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\jose-jwt.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Internal.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Preview.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Management.ServiceModel.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.Strings.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Fabric.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Extensions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Diagnostics.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.ServiceFabric.Services.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\NetLegacySupport.Tuple.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Twilio.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\UrlCombineLib.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.McgInterop.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.McgInterop.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.Strings.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Fabric.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.CompilerServices.ICastable.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.Private.Interop.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Internal.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Preview.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Management.ServiceModel.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.Strings.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Fabric.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Extensions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.ServiceFabric.Diagnostics.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Application.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Domain.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Application.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Presistence.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.Manifest.cache
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApp.StaticWebAssets.xml
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApp.styles.css
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.RazorTargetAssemblyInfo.cache
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.csproj.CopyComplete
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.dll
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.pdb
+D:\OfficeRelated\QBubble\Qbubble\WebApiApp\obj\Debug\netcoreapp3.1\WebApiApp.genruntimeconfig.cache

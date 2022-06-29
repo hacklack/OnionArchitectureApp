@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiApp</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiApp.Controllers.v1.UserController.GenerateOTP(System.String)">
+            <summary>
+            Generate OTP to Register/Login User
+            </summary>
+            <param phone="phone"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.ValidateOTP(System.String,System.String)">
+            <summary>
+            Validate OTP to Register/Login User
+            </summary>
+            <param OTP="OTP"></param>
+            <param phone="phone"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.VerifyNumber(System.String)">
+            <summary>
+            Validate Mobile number exists or not
+            </summary>
+            <param phone="phone"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.Create(Application.Features.Commands.UserCommands.CreateUserCommand)">
+            <summary>
+            Create a new User.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.SetProfilePhoto(Application.ApiModels.UserProfileImageApiModel)">
+            <summary>
+             Add or update the profile photo for current user 
+            </summary>
+             <returns>Profile photo path</returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.GetMemberByUserId(System.Int32)">
+            <summary>
+            Get Member by User Id.
+            </summary>
+            <param userid="userid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.DeleteMemberByUserId(System.Int32,System.Int32)">
+            <summary>
+            Delete Member by User Id.
+            </summary>
+            <param userid="userid"></param>
+            <param memberId="memberId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.GetAll">
+            <summary>
+            Gets all Products.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.GetById(System.Int32)">
+            <summary>
+            Gets Product Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:WebApiApp.Controllers.v1.UserController.Delete(System.Int32,System.Boolean)" -->
+        <member name="M:WebApiApp.Controllers.v1.UserController.Update(Application.Features.Commands.UserCommands.UpdateUserCommand,System.Int32)">
+            <summary>
+            Updates the Product Entity based on Id.   
+            </summary>
+            <param id="id"></param>
+            <param command="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiApp.Controllers.v1.UserController.GetAllCountiesByName(System.String)">
+            <summary>
+            Get all Counties by Name
+            <param name="name"></param>
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

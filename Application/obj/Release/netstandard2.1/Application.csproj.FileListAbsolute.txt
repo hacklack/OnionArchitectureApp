@@ -1,0 +1,60 @@
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Application.deps.json
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Application.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Application.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.csproj.CopyComplete
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.dll
+D:\OfficeRelated\QBubble\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.pdb
+D:\sourabh\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Application.deps.json
+D:\sourabh\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Application.dll
+D:\sourabh\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Application.pdb
+D:\sourabh\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Domain.dll
+D:\sourabh\OnionArchitectureApp\Application\bin\Release\netstandard2.1\Domain.pdb
+D:\sourabh\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\sourabh\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\sourabh\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.AssemblyInfo.cs
+D:\sourabh\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\sourabh\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.csproj.CopyComplete
+D:\sourabh\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.dll
+D:\sourabh\OnionArchitectureApp\Application\obj\Release\netstandard2.1\Application.pdb
+E:\Mechlin Tech\Qbubble\Application\bin\Release\netstandard2.1\Application.deps.json
+E:\Mechlin Tech\Qbubble\Application\bin\Release\netstandard2.1\Application.dll
+E:\Mechlin Tech\Qbubble\Application\bin\Release\netstandard2.1\Application.pdb
+E:\Mechlin Tech\Qbubble\Application\bin\Release\netstandard2.1\Domain.dll
+E:\Mechlin Tech\Qbubble\Application\bin\Release\netstandard2.1\Domain.pdb
+E:\Mechlin Tech\Qbubble\Application\obj\Release\netstandard2.1\Application.csprojAssemblyReference.cache
+E:\Mechlin Tech\Qbubble\Application\obj\Release\netstandard2.1\Application.AssemblyInfoInputs.cache
+E:\Mechlin Tech\Qbubble\Application\obj\Release\netstandard2.1\Application.AssemblyInfo.cs
+E:\Mechlin Tech\Qbubble\Application\obj\Release\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+E:\Mechlin Tech\Qbubble\Application\obj\Release\netstandard2.1\Application.csproj.CopyComplete
+E:\Mechlin Tech\Qbubble\Application\obj\Release\netstandard2.1\Application.dll
+E:\Mechlin Tech\Qbubble\Application\obj\Release\netstandard2.1\Application.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\bin\Release\netstandard2.1\Application.deps.json
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\bin\Release\netstandard2.1\Application.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\bin\Release\netstandard2.1\Application.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\bin\Release\netstandard2.1\Domain.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\bin\Release\netstandard2.1\Domain.pdb
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\obj\Release\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\obj\Release\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\obj\Release\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\obj\Release\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\obj\Release\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\obj\Release\netstandard2.1\Application.dll
+C:\Users\Hosting\Downloads\Sourabh\Qbubble\Application\obj\Release\netstandard2.1\Application.pdb
+D:\OfficeRelated\QBubble\Qbubble\Application\bin\Release\netstandard2.1\Application.deps.json
+D:\OfficeRelated\QBubble\Qbubble\Application\bin\Release\netstandard2.1\Application.dll
+D:\OfficeRelated\QBubble\Qbubble\Application\bin\Release\netstandard2.1\Application.pdb
+D:\OfficeRelated\QBubble\Qbubble\Application\bin\Release\netstandard2.1\Domain.dll
+D:\OfficeRelated\QBubble\Qbubble\Application\bin\Release\netstandard2.1\Domain.pdb
+D:\OfficeRelated\QBubble\Qbubble\Application\obj\Release\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\OfficeRelated\QBubble\Qbubble\Application\obj\Release\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Application\obj\Release\netstandard2.1\Application.AssemblyInfo.cs
+D:\OfficeRelated\QBubble\Qbubble\Application\obj\Release\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\OfficeRelated\QBubble\Qbubble\Application\obj\Release\netstandard2.1\Application.csproj.CopyComplete
+D:\OfficeRelated\QBubble\Qbubble\Application\obj\Release\netstandard2.1\Application.dll
+D:\OfficeRelated\QBubble\Qbubble\Application\obj\Release\netstandard2.1\Application.pdb
